@@ -1,4 +1,4 @@
-# SAIKO ANIMES DOENLOADER
+# SAIKO ANIMES DOWNLOADER
 
 Script de download dos episódios semanais dos animes transmitidos no japão.
 
