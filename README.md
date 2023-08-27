@@ -1,4 +1,4 @@
-# SAIKO ANIMES DOENLOADER
+# SAIKO ANIMES DOWNLOADER
 
 Script de download dos episódios semanais dos animes transmitidos no japão.
 
@@ -14,7 +14,7 @@ pipenv shell
 ## Execute o comendo abaixo para realizar o download do titulo desejado.
 
 ```bash
-python main.py https://saikoanimes.net/anime/liar-liar/
+python main.py <url>
 
 ```
 ## Conforme o download for ocorrendo, uma barra de progresso exibira a taxa de download e tempo gasto.
